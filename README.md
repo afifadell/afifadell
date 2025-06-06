@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rafif or Adel 👋
+- My full name is Muhammad Rafif Asadel!
 
-<!--
-**afifadell/afifadell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16 y/o electronics and programming enthusiast from Indonesia!
 
-Here are some ideas to get you started:
+## 🔧 What I Build
+- 💡 LED & ESP32 projects
+- 👨‍💻 Coding in C++, and Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Algorithms for OSN Informatika 2025
+- ESP32 web servers and WiFi projects
+- Hardware + software integration
+
+## 📦  Projects
+- Mini money tracker for myself!
