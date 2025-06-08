@@ -4,7 +4,7 @@
 I'm a 16 y/o electronics and programming enthusiast from Indonesia!
 
 ## 🔧 What I Build
-- 💡 LED & ESP32 projects
+- 💡 Some ESP32 projects
 - 👨‍💻 Coding in C++, and Arduino
 
 ## 🌱 Currently Learning
